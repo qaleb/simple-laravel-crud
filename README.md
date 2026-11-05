@@ -1,2 +1,2 @@
 # simple-laravel-crud
-Implementation of crude operations with Laravel
+Implementation of CRUD operations with Laravel
